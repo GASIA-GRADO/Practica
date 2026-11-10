@@ -1,2 +1,2 @@
-# Practica
-Una practica para ver como funciona GitHub
+# Calculadora de Java
+Calculadora desarrollada con Java y Maven
